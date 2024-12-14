@@ -1,0 +1,17 @@
+{
+    "name": "hemershon/car_api",
+    "autoload": {
+        "psr-4": {
+            "Hemershon\\CarApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hemershon Silva",
+            "email": "hemershon@nextbilling.com.br"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
